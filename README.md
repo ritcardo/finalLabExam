@@ -28,3 +28,4 @@ This is a React-based weather forecast application that allows users to search f
    ```bash
    git clone <https://github.com/ritcardo/finalLabExam.git>
    cd finalExam
+"# finalLab" 
