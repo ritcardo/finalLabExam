@@ -1,0 +1,33 @@
+weather forecast application 
+
+1. Api : accuweather API
+2. frontend: React
+3. backend node.js 
+
+user story: 
+I want to quickly access the weather forecast for my next travel destination so that I can pack appropriately and plan my itinerary with confidence.
+
+Step 1: Set Up the React Frontend
+Initialize a React project to create a new application.
+
+Create a search form that allows users to input the name of a city.
+
+
+Step 2: Integrate AccuWeather API
+Obtain an API key from AccuWeather.
+
+Set up API calls to fetch weather data for the entered city.
+
+
+Step 3: Display Weather Information
+Display current weather conditions for the searched city.
+
+Show a 5-day weather forecast that provides daily weather updates.
+
+
+Step 4: Add User Experience Enhancements
+
+Display error messages if the API call fails or if the city is not found.
+
+Step 5: Style the Application
+Use CSS or a library like Bootstrap to make the application visually appealing and responsive.
